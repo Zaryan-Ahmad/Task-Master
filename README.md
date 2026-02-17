@@ -1,7 +1,8 @@
 # Task-Master
 A specialized AI agent that transforms chaotic meeting transcripts into structured project manifests and executive briefs. Streamlines internal operations by automating task extraction and priority assignment.
 
-**Key Features for your README:**
+**Key Features**
+
 **Semantic Task Extraction:** Uses Gemini 2.5 to parse natural language transcripts and identify concrete action items.
 
 **Executive Summarization:** Automatically generates a high-impact, 3-sentence briefing for leadership-level rapid review.
